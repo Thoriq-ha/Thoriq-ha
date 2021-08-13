@@ -36,4 +36,10 @@ If you are interested in getting to know me, please follow My [Linkedin](https:/
 <br />
 <br />
 
----
+### Github Statistic
+<p align="left">
+<a href="https://github.com/Thoriq-ha">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Thoriq-ha&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Thoriq-ha&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
