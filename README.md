@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My Name is **Thoriq Harizul Ahsan**.\
-🔭 I'm **Informatics Engineering Student** at [UIN Maulana Malik Ibrahim Malang](http://informatika.uin-malang.ac.id/).
+🔭 A mobile engineer with 2+ years of experience. Familiar with Product and Project Development. winner of programming competitions at several national levels
 
 - 🌱 I’m currently learning Mobile Developer focused on Flutter & Kotlin
 - 💬 Contact me on Instagram [@thoriq_hrz](https://www.instagram.com/thoriq_hrz/)
