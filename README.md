@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 My Name is **Thoriq Harizul Ahsan**.\
-🔭 A mobile engineer with 2+ years of experience. Familiar with Product and Project Development. winner of programming competitions at several national levels
+🔭 A Software engineer with 2+ years of experience. Familiar with Product and Project Development. Winner of programming competitions at several national levels
 
-- 🌱 I’m currently learning Mobile Developer focused on Flutter & Kotlin
+- 💼 I have profesional experience working in Mobile Development (Flutter | Kotlin) and Web Developer (ASP.NET).
 - 💬 Contact me on Instagram [@thoriq_hrz](https://www.instagram.com/thoriq_hrz/)
 - 📫 How to reach me: ithoriq0@gmail.com
 - ⚡ Fun fact: I'm Active on Programming Community at University
@@ -15,9 +15,9 @@ If you are interested in getting to know me, please follow My [Linkedin](https:/
 
 ### Languages and Tools:
 
-
+<img align="left" alt="Flutter" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
-<img align="left" alt="Flutter" width="26px" src="https://www.eudeka.id/wp-content/uploads/2021/04/flutter-logo-sharing-1.png" />
+<img align="left" alt="ASP.net" width="26px" src="https://yukcoding.id/wp-content/uploads/2021/04/ebook-asp.net_.png" />
 <img align="left" alt="Java" width="26px" src="https://img.utdstc.com/icon/d54/e1c/d54e1ca541ba7a220d54b2b0b39f450df49e42aeb848cd1552d02bfa89e17847:200" />
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
@@ -28,8 +28,8 @@ If you are interested in getting to know me, please follow My [Linkedin](https:/
 
 ### Softwares:
 
-<img align="left" alt="Android Studio" width="26px" src="https://2.bp.blogspot.com/-tzm1twY_ENM/XlCRuI0ZkRI/AAAAAAAAOso/BmNOUANXWxwc5vwslNw3WpjrDlgs9PuwQCLcBGAsYHQ/s1600/pasted%2Bimage%2B0.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Android Studio" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Android_Studio_icon_%282023%29.svg/2048px-Android_Studio_icon_%282023%29.svg.png" />
 <img align="left" alt="Figma" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" />
 
 
