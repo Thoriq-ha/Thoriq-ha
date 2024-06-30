@@ -17,7 +17,7 @@ If you are interested in getting to know me, please follow My [Linkedin](https:/
 
 <img align="left" alt="Flutter" width="26px" src="https://storage.googleapis.com/cms-storage-bucket/a9d6ce81aee44ae017ee.png" />
 <img align="left" alt="Kotlin" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/74/Kotlin_Icon.png" />
-<img align="left" alt="ASP.net" width="26px" src="https://yukcoding.id/wp-content/uploads/2021/04/ebook-asp.net_.png" />
+<img align="left" alt="ASP.net" width="26px" src="https://softwareasli.com/wp-content/uploads/2019/08/ASP.NET_.png" />
 <img align="left" alt="Java" width="26px" src="https://img.utdstc.com/icon/d54/e1c/d54e1ca541ba7a220d54b2b0b39f450df49e42aeb848cd1552d02bfa89e17847:200" />
 <a href="https://www.w3.org/html/" target="_blank"><img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
 <a href="https://www.w3schools.com/css/" target="_blank"><img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
