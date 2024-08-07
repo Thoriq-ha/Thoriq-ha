@@ -1,14 +1,51 @@
 ### Hi there 👋
 
-My Name is **Thoriq Harizul Ahsan**.\
-🔭 A Software engineer with 2+ years of experience. Familiar with Product and Project Development. Winner of programming competitions at several national levels
+👋 Hi there! I'm Thoriq Harizul Ahsan, a passionate software developer specializing in mobile and web development. With over 3 years of experience, I have a diverse skill set that includes Flutter, Kotlin, and ASP.NET. I'm currently a freelance developer and have worked with prominent companies such as Kompas TV.
 
-- 💼 I have profesional experience working in Mobile Development (Flutter | Kotlin) and Web Developer (ASP.NET).
-- 💬 Contact me on Instagram [@thoriq_hrz](https://www.instagram.com/thoriq_hrz/)
-- 📫 How to reach me: ithoriq0@gmail.com
-- ⚡ Fun fact: I'm Active on Programming Community at University
-      ^📲 Community leader at Mocap (Mobile Community All Platform)
-      ^󠁇󠁇💻 Core developer and speaker at Google Developer Student Club UIN Malang
+#### 🛠 Skills & Technologies:
+- **Mobile Development:** Flutter, Kotlin
+- **Web Development:** ASP.NET, React.js, HTML, CSS, Node.js (Express)
+- **DevOps:** Docker, GitHub Actions, Alibaba Cloud, GCP, Vercel
+- **Database:** SQL Server, Firebase, MongoDB
+- **Design:** Glassmorphism, Slicing Design
+
+#### 🚀 Current Projects:
+- Setting up OpenBroadcaster Server using Docker Compose.
+- Building a company profile website for 'Sinergi Anak Bangsa'.
+
+#### 📚 Learning & Development:
+- Currently exploring backend development and DevOps practices.
+- Interested in creating content on YouTube about UI design slicing with Flutter.
+
+#### 🌐 Links:
+- [LinkedIn](https://www.linkedin.com/in/thoriq-harizul-ahsan/)
+- [Personal Website](http://harizul.xyz)
+
+#### 📫 Contact Me:
+Feel free to reach out for collaborations or any interesting project opportunities!
+
+---
+
+### Professional Experience
+- **Kompas TV**: Developed and maintained applications, involved in product and project development.
+
+#### Freelance Software Developer
+- **Tarkam App**: Developed and maintained mobile applications (Flutter), involved in product and project development.
+- **Agrisolute**: Developed and maintained mobile applications (Flutter), involved in product and project development.
+- **Sinergi Anak Bangsa**: Developing a company profile website.
+
+#### Community Involvement
+- **Google Developer Student Club UIN Malang**: Core developer and speaker.
+- **Mocap (Mobile Community All Platform)**: Community leader.
+
+#### Achievements
+- Successfully Develop a quick count system for the 2024 election.
+- Automated deployment to Vercel using GitHub Actions.
+- Created comprehensive release notes for Google Play Console.
+
+---
+
+Feel free to adjust or add any additional details that you think might be relevant!
 
 
 If you are interested in getting to know me, please follow My [Linkedin](https://www.linkedin.com/in/thoriq-harizul-ahsan-79472912b/) account.
