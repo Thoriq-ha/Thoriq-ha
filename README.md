@@ -30,8 +30,8 @@ Feel free to reach out for collaborations or any interesting project opportuniti
 - **Kompas TV**: Developed and maintained applications, involved in product and project development.
 
 #### Freelance Software Developer
-- **Tarkam App**: Developed and maintained mobile applications (Flutter), involved in product and project development.
-- **Agrisolute**: Developed and maintained mobile applications (Flutter), involved in product and project development.
+- **Tarkam App**: Developed and maintained mobile applications (Flutter), involved in product and project development. [Playstore](https://play.google.com/store/apps/details?id=co.id.tarkam) [App Store](https://apps.apple.com/app/id6504449217)
+- **Agrisolute**: Developed and maintained mobile applications (Flutter), involved in product and project development. [Playstore](https://play.google.com/store/apps/details?id=id.agrisolute)
 - **Sinergi Anak Bangsa**: Developing a company profile website.
 
 #### Community Involvement
@@ -45,10 +45,7 @@ Feel free to reach out for collaborations or any interesting project opportuniti
 
 ---
 
-Feel free to adjust or add any additional details that you think might be relevant!
 
-
-If you are interested in getting to know me, please follow My [Linkedin](https://www.linkedin.com/in/thoriq-harizul-ahsan-79472912b/) account.
 
 ### Languages and Tools:
 
